@@ -1,0 +1,13 @@
+.a-style:hover{
+  color: #fc0;
+  background: grey;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  box-sizing: border-box;
+}
+.shadow {
+  background: #fc0;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  padding: 10px;
+  box-sizing: border-box;
+}

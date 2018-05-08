@@ -1,0 +1,16 @@
+.container{
+  background-color: dimgray;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+img:hover{
+  opacity:.5;
+}
+.card-body {
+  display : none;
+}
+.card:hover .card-body{
+  display : flex;
+}
+.card{
+  box-shadow: 0 10px 10px rgba(0,0,0,0.5);
+}
